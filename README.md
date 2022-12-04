@@ -8,4 +8,4 @@ Zing is a modified version of Windows created with peformance, privacy and secur
 
 Zing is also easier to install and get up and running due to our Post-Install script which allows you to download the software you need at the click of a button saving you time and effort. Zing is also open source which means you can build Zing from source and you can see everything that goes into Zing. 
 
-## Installation
+## System Requirements
