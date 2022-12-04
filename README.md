@@ -9,3 +9,5 @@ Zing is also easier to install and get up and running due to our Post-Install sc
 ## Table of contents
 
 ● [Why use Zing?]()
+● [Installation]()
+● [Post-Install]()
