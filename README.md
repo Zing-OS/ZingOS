@@ -8,7 +8,7 @@ Zing is also easier to install and get up and running due to our Post-Install sc
 
 ## Table of contents
 
-- [Installation]()
+- [Installation](https://github.com/Zing-OS/ZingOS/wiki/1.-Installation)
 - [Post-Install]()
 - [Building From Source]()
 - [Unsupported Featues]()
