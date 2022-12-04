@@ -12,4 +12,3 @@ Zing is also easier to install and get up and running due to our Post-Install sc
 - [Post-Install]()
 - [Building From Source]()
 - [Unsupported Featues]()
-- [Disclaimers and Warnings]()
